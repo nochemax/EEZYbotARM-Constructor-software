@@ -1,4 +1,4 @@
-# EEZYbotARM-Contructor-sofware
+# EEZYbotARM-Contructor-software
 
 
 Software y firmware brazo arm arduino usb  
