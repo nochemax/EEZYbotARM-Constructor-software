@@ -4,4 +4,4 @@
 Software y firmware brazo arm arduino usb  
 
 
-DEMO ····· CONTRUCTOR ······ firmware + SOFWARE WIN Y LINUX
+DEMO ····· CONTRUCTOR ······ firmware + SOFTWARE WIN Y LINUX
